@@ -48,7 +48,7 @@
 #define turnOffBlueLed  setPortD(1)
  
 //Time
-#define n1sec           250000  
+#define n1sec           2000000  
 #define n2sec           4000000
 #define n500msed        1000000 
 #define n15msec         35000
